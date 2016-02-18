@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:asbjornenge/readmylink.git
+[submodule "api"]
+	path = api
+	url = git@github.com:asbjornenge/readmylink-api.git
